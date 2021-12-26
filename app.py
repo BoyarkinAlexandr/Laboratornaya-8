@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 import requests
 import os
 import uuid
-import json
 
 load_dotenv()
 app = Flask(__name__)
